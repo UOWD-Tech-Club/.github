@@ -9,9 +9,9 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
-- 🔭 Welcome to UOWD's organization on GitHub where we love all things open source and contributing to frontend and backend for building web applications.
-- 🌱 University students.
-- ⚡ We organise coding workshop. 
+- 🔭 Welcome to UOWD Tech Club organization on GitHub where we love all things open source and contributing to frontend and backend for building web applications.
+- 🌱 This club's main goal is to create the ideal environment for students to learn, share, and use their knowledge about cyber and tech. In order to encourage, foster, and develop practical programming capabilities within our university's community, we seek to offer a bridge between staffs students and industry specialists.
+- ⚡ The UOWD students that operate this Club are also UOWD students.
 
 <hr>
 
