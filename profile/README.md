@@ -15,12 +15,12 @@
 
 <hr>
 
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center">📫 Reach Us On</h2>
 
 [![Instgram Badge](https://img.shields.io/badge/-uowd_tech_club-pink?style=flat-square&logo=Instagram&logoColor=purple)](https://www.instagram.com/uowd_tech_club)
 
 <hr>
 
-<h2  align="center">💻 Check Out our Repos ⬇️ </h2>
+<h2  align="center">💻 Check Out Our Repos ⬇️ </h2>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
